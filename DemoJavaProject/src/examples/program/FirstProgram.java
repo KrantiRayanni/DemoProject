@@ -8,6 +8,10 @@ public class FirstProgram {
 		
 		System.out.println("Hello..");
 		
+		System.out.println("Selenium..");
+		
+		System.out.println("Java..");
+		
 	}
 
 }
